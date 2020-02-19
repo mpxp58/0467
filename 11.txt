@@ -7,3 +7,13 @@ sbs,http://live3.meiritv.mobi:2050/__defaultVhost__/HSBS/HSBS.m3u8
 延边2,http://live.ybtvyun.com/video/s10006-ybtv1-sd/index.m3u8
 延边22，http://live.ybtvyun.com/video/s10016-ybtv2-sd/index.m3u8
 朝鲜,http://live3.meiritv.mobi:2050/__defaultVhost__/HBCX/HBCX.m3u8
+韩国1,#genre#
+KBS1,http://47.91.200.241/iptv/kbs_kr.php?id=1tv
+KBS2,http://47.91.200.241/iptv/kbs_kr.php?id=2tv
+KBS22,http://112.175.248.133/www_subtitle-2tv/_definst_/subtitle-2tv_5.stream/chunklist_w1394581478.m3u8?csu=false&tid=2c94deceffa2d8139480fae68be0a740
+MBC,http://1.255.48.128/onairtv_caption/_definst_/caption_500k.stream/chunklist_w754496761.m3u8?csu=false&tid=2c94deceffa2d8139480fae68be0a740
+mbc2,http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w993657050.m3u8
+SBS,http://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODE2NTQ2NzIsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiI1YjdjZDdlOC1iY2I2LTQ0NTEtOGJkNi04MThkY2NjNWQ5NDEifQ.zyIekQOEqo0MNhbLTvUzF8Qq24rw25I0Ggle4ROfkzo&solsessionid=1374a5b5e347d97b71b27a5fe6cdf918
+SBS1,http://dn.exdnd.com/iptv/sbs_kr.php?id=S01
+SBS2,http://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODE2NTUxMDgsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiI1MmZkYTE3Ni01YjA2LTRjYWQtODQxNS04YzU1YTRmZjZjNmQifQ.wkmfpF4_nzqs1vzSzMTAveyDdya8lWv6UPSsermkEzI&solsessionid=37aa928986bcf13996fc01badda66022
+inet,http://23.237.112.138:9083/live/lmgr218-live1/iE/sB/iEsBUibpGCn1MvvofdT7Nw==/live.M3U8
