@@ -17,5 +17,4 @@ SBS,http://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8?token=eyJ0eXAiO
 SBS1,http://dn.exdnd.com/iptv/sbs_kr.php?id=S01
 SBS2,http://tvlive.sbs.co.kr/sbsch6/sbsch61.stream/chunklist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODE2NTUxMDgsInBhdGgiOiIvc2JzY2g2MS5zdHJlYW0iLCJkdXJhdGlvbiI6MTgwLCJ1bm8iOiI1MmZkYTE3Ni01YjA2LTRjYWQtODQxNS04YzU1YTRmZjZjNmQifQ.wkmfpF4_nzqs1vzSzMTAveyDdya8lWv6UPSsermkEzI&solsessionid=37aa928986bcf13996fc01badda66022
 inet,http://23.237.112.138:9083/live/lmgr218-live1/iE/sB/iEsBUibpGCn1MvvofdT7Nw==/live.M3U8
-北朝鲜，https://iptv-org.github.io/iptv/countries/kp.m3u8
 北朝鲜1,https://tv.nknews.org/tvhls/stream.m3u8
